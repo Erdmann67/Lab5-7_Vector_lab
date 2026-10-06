@@ -24,12 +24,18 @@ Vector temp;
 
 //one vector is lenght two
 if ((alpha.z == null) || (beta.z == null)){
-    //alpha is length two
     
+    if (alpha.z == null){
+    //alpha is length two
+    temp.x = alpha.x + beta.x;
+    temp.y = alpha.y + beta.y;
+    temp.z = beta.z;
 
 
-
+    }else{
     //beta is length two
+
+    }
 
 }
 //both vectors are length 3
