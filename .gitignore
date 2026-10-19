@@ -1,6 +1,0 @@
-#dependency files
-*.o
-#object files
-*.o
-#the exe
-main
