@@ -440,9 +440,9 @@ int display_named_vector(const char *name)
 }
 
 //LAB7
-int load_file(char *file_name)
-{
-    clear_array();
+// int load_file(char *file_name)
+// {
+//     clear_array();
 
 
 
@@ -451,7 +451,7 @@ int load_file(char *file_name)
 
 
 
-}
+// }
 
 
 
